@@ -308,7 +308,7 @@
                         .Specialty .title::after,
                         .projects .title::after {
                             background: #111;
-                            content: "What I Specialize";
+                            content: "What I Do";
                         }
                         
                         .Specialty .serv-content .card {
